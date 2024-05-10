@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "148058791703",
-    "project_id": "shop-ml",
-    "storage_bucket": "shop-ml.appspot.com"
+    "project_number": "798899658959",
+    "project_id": "shop-tl",
+    "storage_bucket": "shop-tl.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:148058791703:android:6cb85bba4401e5cab5e152",
+        "mobilesdk_app_id": "1:798899658959:android:d07b45eafb632b89b397ba",
         "android_client_info": {
           "package_name": "com.ml.shopml"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDcIXYGAYgK6rqnC90j9Rfdb0eHQWpCWPM"
+          "current_key": "AIzaSyC6w9f0TNpW8c-xliXpHv9XYQuPzTB8aio"
         }
       ],
       "services": {
